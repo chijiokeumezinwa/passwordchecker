@@ -5,9 +5,7 @@
 At least 12 characters long but 14 or more is better.
 
 A combination of uppercase letters, lowercase letters, numbers, and symbols.
-
-Significantly different from your previous passwords.
- '''
+'''
 
 import re
 
